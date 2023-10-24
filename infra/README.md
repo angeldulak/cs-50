@@ -21,5 +21,5 @@ source ./set_environment_variables.sh
 Note that any time you update your operating system to a new version of MacOS, you'll have to make sure that your developer tools are up to date:
 
 ```bash
-xcode-select install
+xcode-select --install
 ```
