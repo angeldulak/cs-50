@@ -33,7 +33,7 @@ Source Code --> Binary Executable
 **To compile a source code file written in C to an executable binary, run:**
 
 ```bash
-clang your_file_name.c -o your_file_name
+clang your_file_name.c -o your_file_name.out
 ```
 
 This command means: Compile the source code file names "your_file_name.c" to an executable file names "your_file_name".
