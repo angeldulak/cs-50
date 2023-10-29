@@ -1,2 +1,8 @@
 # Ignore libcs50
 libcs50/
+
+# Compilation artifacts
+*.dSYM/
+
+# Ignore binary executables
+*.out
